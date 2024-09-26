@@ -1,6 +1,6 @@
 # SCT_WD_2
 
-# Stopwatch Application ⏱️
+# Stopwatch Web Application ⏱️
 
 ## Overview
 
